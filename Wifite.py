@@ -1,3 +1,4 @@
+wellcome in salah script
 #!/usr/bin/env python
 
 # Note: This script runs Wifite from within a cloned git repo.
